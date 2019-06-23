@@ -1,0 +1,16 @@
+{
+    "name": "amyli blog",
+    "short_name": "blog",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#f6f6f6",
+    "description": "李向维的博客",
+    "theme_color": "blue",
+    "icons": [
+      {
+        "src": "./logo@144.jpg",
+        "sizes": "144x144",
+        "type": "image/jpg"
+      }
+    ]
+  }
